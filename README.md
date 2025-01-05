@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, my name is Jason 👋
+
+I'm a full stack software engineer living in Los Angeles, CA.
+
+I'm also going to college at Oregon State University (eCampus) for a degree in Computer Science.
+
+My go-to language is JavaScript, as I specialize in frontend. I love React, Next.js, SCSS, and frontend build tools. I'm also decent at Python, use Django a lot, and know my SQL and No-SQL databases.
 
 <!--
 **elaboratecon/elaboratecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
